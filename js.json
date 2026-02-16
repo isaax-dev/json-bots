@@ -2,5 +2,21 @@
 	{
 		"nome": "lorrita",
 		"invite": "https://discord.com/oauth2/authorize?client_id=297153970613387264&scope=identify+guilds+email+bot+applications.commands&permissions=2080374975&response_type=code&redirect_uri=https%3A%2F%2Fdash.loritta.website%2Fdiscord%2Flogin&state=ZXlKemIzVnlZMlVpT2lKM1pXSnphWFJsSWl3aWJXVmthWFZ0SWpvaVluVjBkRzl1SWl3aVkyOXVkR1Z1ZENJNkltcDFiV0p2ZEhKdmJpSXNJbWgwZEhCU1pXWmxjbkpsY2lJNkltaDBkSEJ6T2k4dmJHOXlhWFIwWVM1M1pXSnphWFJsTHlKOS5aUEh6a2NXWmVySlNSTnZTWFpyR1loeXhIYUV5dlREU1pvOWFGeGxxQzhF"
+	},
+	{
+	"nome": "ticket king",
+	"invite": "https://discord.com/oauth2/authorize?client_id=710034409214181396&scope=bot&permissions=534992383065"
+	},
+	{
+	"nome": "wick bot",
+	"invite": "https://discord.com/oauth2/authorize?response_type=code&scope=bot+identify+guilds+applications.commands&client_id=536991182035746816&redirect_uri=https://dashboard.wickbot.com/api/auth/callback&permissions=8"
+	},
+	{
+	"nome": "carl bot",
+	"invite": "https://discord.com/oauth2/authorize?&client_id=235148962103951360&scope=applications.commands+bot&permissions=2088234230&response_type=code&redirect_uri=https://carl.gg/api/server_auth"
+	},
+	{
+	"nome": "koya",
+	"invite": "discord.com/oauth2/authorize?response_type=code&client_id=276060004262477825&redirect_uri=https%3A%2F%2Fkoya.gg%2Fapi%2Fauth%2Fcallback%3Fflow%3Dinvite_me&scope=bot+applications.commands+identify+guilds+email&permissions=3124257994829047&state=bc8d4b63023b9e696ee412138a28dba8"
 	}
 ]
